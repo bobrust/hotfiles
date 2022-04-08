@@ -1,4 +1,4 @@
-# dotfiles
+# hotfiles
 
 ## Dependencies
 * [The greatest OS](https://www.microsoft.com/software-download/windows10ISO)
